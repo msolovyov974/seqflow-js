@@ -1,0 +1,10 @@
+{
+  "name": "seqflow-js",
+  "version": "0.1.0",
+  "description": "Fresh javascript framework for Frontend",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
