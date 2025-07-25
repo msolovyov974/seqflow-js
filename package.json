@@ -1,6 +1,6 @@
 {
   "name": "seqflow-js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Fresh javascript framework for Frontend",
   "main": "src/index.ts",
   "scripts": {
